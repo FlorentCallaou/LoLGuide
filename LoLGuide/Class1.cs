@@ -8,5 +8,6 @@ namespace LoLGuide
 {
     public class Class1
     {
+        private string name;
     }
 }
